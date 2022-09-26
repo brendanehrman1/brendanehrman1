@@ -1,4 +1,16 @@
-# ProfileInfo
+Hi there, I'm Brendan Ehrman! 
+<br>
+I'm currently a sophomore CS student @ TAMU. My personal projects, including those from high school such as my MeetUp and Parkinson's apps, as well as those from online courses such as UD120, can be seen here.
+<br>
+To contact me, use these links:
+<br>
+Email: 
+<a href="brendan.ehrman.1@tamu.edu">brendan.ehrman.1@tamu.edu</a>
+<br>
+LinkedIn: 
+<a href="https://www.linkedin.com/in/brendanehrman1/">https://www.linkedin.com/in/brendanehrman1/</a>
+<br>
+
 ## 📊 Stats
 
 <a href="https://github.com/brendanehrman1">
@@ -8,18 +20,7 @@
 <a href="https://github.com/brendanehrman1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brendanehrman1&show_icons=true&theme=github_dark&line_height=20&include_all_commits=true&count_private=true" />
 </a>
+<br>
 <a href="https://github.com/brendan-arena">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brendan-arena&show_icons=true&theme=github_dark&line_height=20&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/brendanehrman1/udacity-ml-final-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanehrman1&repo=udacity-ml-final-project&theme=github_dark" />
-</a>
-<br>
-<a href="https://github.com/brendanehrman1/meetup_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanehrman1&repo=meetup_app&theme=github_dark" />
-</a>
-<br>
-<a href="https://github.com/brendanehrman1/meetup_webservice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanehrman1&repo=meetup_webservice&theme=github_dark" />
-</a>
-<br>
